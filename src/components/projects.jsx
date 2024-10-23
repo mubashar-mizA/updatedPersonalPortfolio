@@ -23,7 +23,7 @@ export default function Projects() {
 
                 <div className="opacity-0 group-hover:opacity-100 transition-all duration-150 absolute -top-2 left-1/2 transform -translate-x-1/2 -translate-y-full  text-sm rounded-lg hover:text-black">
                   <a href="https://mdexplorecountries.netlify.app/" className="hover:underline">
-                    Explore Countries
+                    Explore Countries...
                   </a>
                 </div>
               </div>
@@ -191,7 +191,7 @@ export default function Projects() {
 
                 <div className="opacity-0 group-hover:opacity-100 transition-all duration-150 absolute -top-2 left-1/2 transform -translate-x-1/2 -translate-y-full  text-sm rounded-lg hover:text-black">
                   <a href="https://webcal51438.netlify.app/" className="hover:underline">
-                    Print Any Table
+                    Perform Calculations
                   </a>
                 </div>
               </div>

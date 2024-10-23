@@ -33,7 +33,7 @@ const Landing = () => {
           <i className="fab fa-twitter"></i>
         </a>
 
-        <a href="https://github.com" className="lg:text-3xl text-xl hover:text-[#333]" aria-label="GitHub">
+        <a href="https://github.com/mubashar-mizA" className="lg:text-3xl text-xl hover:text-[#333]" aria-label="GitHub">
           <i className="fab fa-github"></i>
         </a>
 
