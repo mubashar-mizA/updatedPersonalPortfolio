@@ -70,7 +70,7 @@ const Landing = () => {
               <div className='lg:w-1/2 mt-[70px] lg:mt-0 lg:m-5 p-4 lg:p-0'>
                 <h3 className='text-3xl lg:text-4xl '>About me</h3>
                 <p className=' text-sm my-3'>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, beatae! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas, nesciunt!
+                  I am a web developer with a strong focus on MongoDB, Express.js, React, Node.js, TypeScript, and Tailwind CSS. I specialize in building interactive, responsive web applications, ensuring high performance and user-friendly interfaces. I am committed to continually refining my skills, embracing modern web development practices, and delivering efficient, dynamic solutions that meet users' needs and expectations.
                 </p>
                 <div className='flex flex-wrap gap-2 justify-center m-1 '>
                   {/* Technology Icons */}
@@ -134,7 +134,7 @@ const Landing = () => {
 
         <div className="absolute text-white w-10/12 lg:bottom-7 bottom-10 text-sm lg:hover:no-underline text-center font-thin group">
           <a href="myProjects" className='text-[15px]'>
-            Scroll to see Projects <span className='text-green-300'>(Completed and Parially Completed) </span>
+            Scroll to see Projects <span className='text-green-300'>(Completed & Parially Completed) </span>
           </a>
 
           <div className="opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex justify-center">
