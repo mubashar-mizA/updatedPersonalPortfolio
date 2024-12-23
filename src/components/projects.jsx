@@ -15,14 +15,14 @@ export default function Projects() {
             <div className="relative">
 
               <div className="hover:cursor-pointer hover:scale-105  transition-all duration-700  ease-in-out group ">
-                <a href="https://mhtodo51438.netlify.app/">
+                <a href="https://todo-with-auth-mubashar-mizas-projects.vercel.app/">
                   <img src="todoWebApp.svg" alt="alpha" className="" />
                 </a>
 
                 {/* Tooltip */}
 
                 <div className="opacity-0 group-hover:opacity-100 transition-all duration-150 absolute -top-2 left-1/2 transform -translate-x-1/2 -translate-y-full  text-sm rounded-lg hover:text-black">
-                  <a href="https://mhtodo51438.netlify.app/" className="hover:underline">
+                  <a href="https://todo-with-auth-mubashar-mizas-projects.vercel.app/" className="hover:underline">
                     Make Your Todo
                   </a>
                 </div>
@@ -30,7 +30,7 @@ export default function Projects() {
 
               <div className="hidden lg:block  w-[1px] h-3/5 absolute bg-black 
                 top-0 left-0 rotate-90 -translate-x-[30px] translate-y-[40px] transition-all duration-700">
-                <a href="https://mdexplorecountries.netlify.app/" className="w-[20px] h-[20px] border border-gray-900 bg-gray-500 hover:bg-gray-600 rounded-full
+                <a href="https://todo-with-auth-mubashar-mizas-projects.vercel.app/" className="w-[20px] h-[20px] border border-gray-900 bg-gray-500 hover:bg-gray-600 rounded-full
                  absolute bottom-0 right-0 translate-x-[9px] 
                 translate-y-[12px] transition-all duration-700" />
               </div>
