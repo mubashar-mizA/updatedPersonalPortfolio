@@ -1,7 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import Landing from './components/landing.jsx';
-import Projects from './components/Projects.jsx';
+import Projects from './components/projects.jsx';
 import Footer from './components/footer.jsx';
 
 
