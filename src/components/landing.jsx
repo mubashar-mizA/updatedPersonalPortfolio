@@ -134,7 +134,7 @@ const Landing = () => {
 
         <div className="absolute text-white w-10/12 lg:bottom-7 bottom-10 text-sm lg:hover:no-underline text-center font-thin group">
           <a href="myProjects" className='text-[15px]'>
-            Scroll to see Projects <span className='text-green-300'>(Completed & Parially Completed) </span>
+            Scroll to see Projects 
           </a>
 
           <div className="opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex justify-center">
